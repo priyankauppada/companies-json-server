@@ -85,42 +85,6 @@
       "description": "Indian Oil is India’s largest commercial oil company, engaged in refining, pipeline transportation, and marketing of petroleum products. It plays a key role in meeting the nation’s energy demands and is actively working on renewable and sustainable energy initiatives to support India's transition to a low-carbon economy."
     },
     {
-      "id": 108,
-      "name": "Larsen & Toubro Ltd (L&T)",
-      "logo": "https://logo.clearbit.com/larsentoubro.com",
-      "location": "Mumbai, Maharashtra",
-      "industry": "Engineering & Construction",
-      "founded": 1938,
-      "employees": 110000,
-      "website": "https://www.larsentoubro.com",
-      "rating": 4.6,
-      "description": "L&T is one of India’s top engineering, construction, and manufacturing companies. It delivers large-scale infrastructure projects globally and plays a key role in sectors like defense, power, heavy engineering, and IT services. L&T is known for its engineering excellence, innovation, and commitment to nation-building."
-    },
-    {
-      "id": 109,
-      "name": "Mahindra & Mahindra Ltd",
-      "logo": "https://logo.clearbit.com/mahindra.com",
-      "location": "Mumbai, Maharashtra",
-      "industry": "Automobile & Manufacturing",
-      "founded": 1945,
-      "employees": 120000,
-      "website": "https://www.mahindra.com",
-      "rating": 4.5,
-      "description": "Mahindra is a diversified multinational group specializing in automotive, farm equipment, aerospace, and IT services. It is known for its rugged vehicles, sustainable innovation, and strong presence in global markets. Mahindra continues to pioneer electric mobility and smart farming solutions."
-    },
-    {
-      "id": 110,
-      "name": "Bharti Airtel Ltd",
-      "logo": "https://logo.clearbit.com/airtel.in",
-      "location": "Gurugram, Haryana",
-      "industry": "Telecommunications",
-      "founded": 1995,
-      "employees": 20000,
-      "website": "https://www.airtel.in",
-      "rating": 4.6,
-      "description": "Bharti Airtel is one of India's leading telecom providers offering mobile, broadband, and enterprise connectivity solutions. It has a strong global presence and is recognized for delivering high-speed internet, digital TV, and innovative digital products to millions of customers."
-    },
-    {
     "id": 111,
     "name": "Adani Enterprises Ltd",
     "logo": "https://logo.clearbit.com/adani.com",
@@ -131,18 +95,6 @@
     "website": "https://www.adani.com",
     "rating": 4.5,
     "description": "Adani Enterprises is the flagship company of the Adani Group, a diversified conglomerate involved in infrastructure, energy, logistics, and resources. The company plays a major role in India's infrastructure development, including airports, ports, renewable energy projects, and data centers. Its rapid global expansion and focus on sustainability make it a leader in India’s industrial growth story."
-  },
-  {
-    "id": 112,
-    "name": "Hindustan Unilever Ltd (HUL)",
-    "logo": "https://logo.clearbit.com/hul.co.in",
-    "location": "Mumbai, Maharashtra",
-    "industry": "FMCG",
-    "founded": 1933,
-    "employees": 21000,
-    "website": "https://www.hul.co.in",
-    "rating": 4.7,
-    "description": "HUL is India's largest fast-moving consumer goods company with a portfolio spanning personal care, home care, food, and beverages. With over 50+ trusted brands like Dove, Surf Excel, and Lifebuoy, HUL serves millions of households daily. The company is recognized for its sustainability initiatives, innovative product development, and leadership in the FMCG industry."
   },
   {
     "id": 113,
