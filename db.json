@@ -1,19 +1,19 @@
 {
   "companies": [
     {
-      "id": 1,
-      "name": "Reliance Industries Ltd",
-      "logo": "https://logo.clearbit.com/relianceindustries.com",
-      "location": "Mumbai, Maharashtra",
-      "industry": "Energy & Retail",
-      "founded": 1966,
-      "employees": 250000,
-      "website": "https://www.relianceindustries.com",
-      "rating": 4.8,
-      "description": "Reliance Industries is one of India's largest and most diversified conglomerates. It operates across energy, petrochemicals, natural gas, retail, telecommunications, and digital services. With a strong focus on innovation and technology-driven growth, Reliance has played a crucial role in transforming India’s industrial landscape. Its retail and Jio telecom arms are market leaders, contributing significantly to India's economic progress."
+    "id": 101,
+    "name": "BYJU'S",
+    "logo": "https://logo.clearbit.com/byjus.com",
+    "location": "Bengaluru, Karnataka",
+    "industry": "EdTech",
+    "founded": 2011,
+    "employees": 15000,
+    "website": "https://www.byjus.com",
+    "rating": 4.3,
+    "description": "BYJU'S is a global leader in digital education, offering personalized learning experiences through AI-powered videos, quizzes, and gamified content. It has revolutionized traditional education, making learning interactive and accessible for millions of students across the world."
     },
     {
-      "id": 2,
+      "id": 102,
       "name": "Tata Consultancy Services (TCS)",
       "logo": "https://logo.clearbit.com/tcs.com",
       "location": "Mumbai, Maharashtra",
@@ -25,7 +25,7 @@
       "description": "TCS is a global leader in IT services, consulting, and business solutions. It provides software development, enterprise solutions, and digital transformation services to clients worldwide. TCS is known for its innovation-led approach, large talent pool, and robust delivery capabilities. With clients in over 45 countries, TCS helps enterprises embrace future technologies like AI, cloud, and IoT."
     },
     {
-      "id": 3,
+      "id": 103,
       "name": "Infosys Ltd",
       "logo": "https://logo.clearbit.com/infosys.com",
       "location": "Bengaluru, Karnataka",
@@ -37,7 +37,7 @@
       "description": "Infosys is a multinational IT services and consulting company offering next-generation digital services and consulting. It focuses on helping clients navigate their digital transformation journeys with solutions in AI, cloud computing, cybersecurity, and automation. Infosys is also known for its ethical practices, strong corporate governance, and leadership in sustainability and innovation."
     },
     {
-      "id": 4,
+      "id":104,
       "name": "Wipro Ltd",
       "logo": "https://logo.clearbit.com/wipro.com",
       "location": "Bengaluru, Karnataka",
@@ -49,7 +49,7 @@
       "description": "Wipro is a global leader in information technology, consulting, and business process services. It helps enterprises adopt innovative technologies and improve efficiency through digital solutions. With operations in more than 50 countries, Wipro focuses on delivering customer-centric solutions, cloud modernization, and AI-driven business transformation strategies."
     },
     {
-      "id": 5,
+      "id": 105,
       "name": "HDFC Bank Ltd",
       "logo": "https://logo.clearbit.com/hdfcbank.com",
       "location": "Mumbai, Maharashtra",
@@ -61,7 +61,7 @@
       "description": "HDFC Bank is one of India's leading private sector banks, offering a wide range of financial services including retail banking, loans, investments, and digital banking. Known for its strong customer service, digital innovation, and consistent performance, HDFC Bank has been a key driver of financial inclusion and digital payment adoption in India."
     },
     {
-      "id": 6,
+      "id": 106,
       "name": "State Bank of India (SBI)",
       "logo": "https://logo.clearbit.com/sbi.co.in",
       "location": "Mumbai, Maharashtra",
@@ -73,7 +73,7 @@
       "description": "SBI is India's largest public sector bank with a massive branch network and strong presence in both rural and urban markets. It offers comprehensive banking solutions, financial services, and digital products. With its legacy, reach, and trust, SBI plays a vital role in India's economic development and financial inclusion initiatives."
     },
     {
-      "id": 7,
+      "id": 107,
       "name": "Indian Oil Corporation Ltd",
       "logo": "https://logo.clearbit.com/iocl.com",
       "location": "New Delhi, Delhi",
@@ -85,7 +85,7 @@
       "description": "Indian Oil is India’s largest commercial oil company, engaged in refining, pipeline transportation, and marketing of petroleum products. It plays a key role in meeting the nation’s energy demands and is actively working on renewable and sustainable energy initiatives to support India's transition to a low-carbon economy."
     },
     {
-      "id": 8,
+      "id": 108,
       "name": "Larsen & Toubro Ltd (L&T)",
       "logo": "https://logo.clearbit.com/larsentoubro.com",
       "location": "Mumbai, Maharashtra",
@@ -97,7 +97,7 @@
       "description": "L&T is one of India’s top engineering, construction, and manufacturing companies. It delivers large-scale infrastructure projects globally and plays a key role in sectors like defense, power, heavy engineering, and IT services. L&T is known for its engineering excellence, innovation, and commitment to nation-building."
     },
     {
-      "id": 9,
+      "id": 109,
       "name": "Mahindra & Mahindra Ltd",
       "logo": "https://logo.clearbit.com/mahindra.com",
       "location": "Mumbai, Maharashtra",
@@ -109,7 +109,7 @@
       "description": "Mahindra is a diversified multinational group specializing in automotive, farm equipment, aerospace, and IT services. It is known for its rugged vehicles, sustainable innovation, and strong presence in global markets. Mahindra continues to pioneer electric mobility and smart farming solutions."
     },
     {
-      "id": 10,
+      "id": 110,
       "name": "Bharti Airtel Ltd",
       "logo": "https://logo.clearbit.com/airtel.in",
       "location": "Gurugram, Haryana",
@@ -121,7 +121,7 @@
       "description": "Bharti Airtel is one of India's leading telecom providers offering mobile, broadband, and enterprise connectivity solutions. It has a strong global presence and is recognized for delivering high-speed internet, digital TV, and innovative digital products to millions of customers."
     },
     {
-    "id": 11,
+    "id": 111,
     "name": "Adani Enterprises Ltd",
     "logo": "https://logo.clearbit.com/adani.com",
     "location": "Ahmedabad, Gujarat",
@@ -133,7 +133,7 @@
     "description": "Adani Enterprises is the flagship company of the Adani Group, a diversified conglomerate involved in infrastructure, energy, logistics, and resources. The company plays a major role in India's infrastructure development, including airports, ports, renewable energy projects, and data centers. Its rapid global expansion and focus on sustainability make it a leader in India’s industrial growth story."
   },
   {
-    "id": 12,
+    "id": 112,
     "name": "Hindustan Unilever Ltd (HUL)",
     "logo": "https://logo.clearbit.com/hul.co.in",
     "location": "Mumbai, Maharashtra",
@@ -145,7 +145,7 @@
     "description": "HUL is India's largest fast-moving consumer goods company with a portfolio spanning personal care, home care, food, and beverages. With over 50+ trusted brands like Dove, Surf Excel, and Lifebuoy, HUL serves millions of households daily. The company is recognized for its sustainability initiatives, innovative product development, and leadership in the FMCG industry."
   },
   {
-    "id": 13,
+    "id": 113,
     "name": "Tech Mahindra Ltd",
     "logo": "https://logo.clearbit.com/techmahindra.com",
     "location": "Pune, Maharashtra",
@@ -157,7 +157,7 @@
     "description": "Tech Mahindra is a global leader in IT services and digital transformation solutions. It helps enterprises modernize their operations through next-gen technologies such as 5G, cloud, AI, and IoT. With strong expertise across telecom, manufacturing, and BFSI sectors, Tech Mahindra drives innovation and business agility for clients worldwide."
   },
   {
-    "id": 14,
+    "id": 114,
     "name": "Zoho Corporation",
     "logo": "https://logo.clearbit.com/zoho.com",
     "location": "Chennai, Tamil Nadu",
