@@ -167,18 +167,6 @@
     "website": "https://www.zoho.com",
     "rating": 4.8,
     "description": "Zoho is a leading global SaaS company that provides cloud-based business software for CRM, finance, HR, and productivity. Known for its affordable pricing and privacy-focused solutions, Zoho serves over 90 million users worldwide. It is one of the few Indian tech companies that have grown without external funding, showcasing innovation and customer-centricity."
-  },
-  {
-    "id": 15,
-    "name": "BYJU'S",
-    "logo": "https://logo.clearbit.com/byjus.com",
-    "location": "Bengaluru, Karnataka",
-    "industry": "EdTech",
-    "founded": 2011,
-    "employees": 15000,
-    "website": "https://www.byjus.com",
-    "rating": 4.3,
-    "description": "BYJU'S is one of the world's leading education technology companies, offering personalized and engaging learning experiences to students. Its platform combines interactive videos, AI-powered assessments, and gamified content to make learning more effective. With millions of learners across the globe, BYJU'S is transforming traditional education into a digital-first experience."
   }
   ]
 }
